@@ -27,7 +27,7 @@ def count_elements(array)
   
   
   # binding.pry
-  #return new_hash
+  new_hash
 end
 
 
