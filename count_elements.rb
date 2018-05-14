@@ -8,7 +8,9 @@ def count_elements(array)
   
   new_hash = {}
   
+  #if string is already a key in hash => incremenet the values
   
+  #if not present, add 
   
   binding.pry
   #return new_hash
