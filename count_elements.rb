@@ -10,7 +10,7 @@ def count_elements(array)
   
   array.each do |element|
     
-    if new_hash.has_key?
+    if new_hash.has_key? 
     
     
   end
