@@ -12,6 +12,8 @@ def count_elements(array)
   
   #if not present, add it as a key to the hash with a value of 1
   
+  
+  
   binding.pry
   #return new_hash
 end
