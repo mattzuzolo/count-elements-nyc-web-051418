@@ -8,11 +8,18 @@ def count_elements(array)
   
   new_hash = {}
   
+  array.each do |element|
+    
+    if new_hash.has_key?
+    
+    
+  end
+  
   #if string is already a key in hash => incremenet the values
   
   #if not present, add it as a key to the hash with a value of 1
   
-  if 
+  
   
   binding.pry
   #return new_hash
