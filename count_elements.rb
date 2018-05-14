@@ -10,18 +10,19 @@ def count_elements(array)
   
   array.each do |element|
     
+    #if string is already a key in hash => incremenet the values
     if new_hash.has_key?(element)
       new_hash[element] += 1
-      
-    else 
+    
+    #if not present, add it as a key to the hash with a value of 1
+    else
       new_hash[element] = 1
     end
-    
   end
   
-  #if string is already a key in hash => incremenet the values
   
-  #if not present, add it as a key to the hash with a value of 1
+  
+  
   
   
   
