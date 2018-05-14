@@ -6,7 +6,7 @@ require 'pry'
 def count_elements(array)
   # code goes here
   
-  my_hash = {}
+  new_hash = {}
   
   binding.pry
   
